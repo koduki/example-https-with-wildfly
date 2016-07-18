@@ -1,3 +1,17 @@
+README
+============
+
+build
+---------
+
+docker build -t koduki/example-http2 .
+
+
+run
+---------
+
+docker run -it -p 8080:8080 koduki/example-http2
+
 
 ### HTTP
 
